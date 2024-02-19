@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">pr2</string>
+    <string name="text">Привет, мир!</string>
+    <string name="landscape">Альбомная ориентация</string>
+</resources>
